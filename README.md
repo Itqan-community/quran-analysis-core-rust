@@ -1,6 +1,7 @@
 # quran-analysis
 
 A standalone Quran semantic search and analysis tool written in Rust. Ported from the original [QuranAnalysis](https://github.com/karimouda/qurananalysis) PHP project.
+This project was originally part of [Itqan-community/RATQ](https://github.com/Itqan-community/RATQ) and was split off to evolve freely as an independent crate.
 
 ## Features
 
